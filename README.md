@@ -1,5 +1,4 @@
-# Hello 🎃
-
+# Hello Devepolers...🎃👨🏻‍💻
 
 <!--
 **MrB141107/MrB141107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -58,7 +57,7 @@ color=00f&title_color=00f&line=00f&point=000&area_color=002387&area=true&bg_colo
 <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mrb141107&show_icons=true&theme=dracula" align="right" width="47%"/><br><br>
 
 <br><br><br><br><br><br><br><br>
-<img alt="Thank you for visiting my profile..." src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&multiline=true&width=450&height=100&lines=Thank+you+for+visiting+...%E2%9C%A8%F0%9F%8E%83" align="center"/>
+
 <!--
 <img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrb141107&layout=compact&hide_border=false&theme=blue_navy&show_icons=true" align="justify" width="500"/>
 -->
