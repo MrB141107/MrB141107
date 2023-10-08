@@ -25,22 +25,19 @@ Here are some ideas to get you started:
 # Repository
 
 <a href="https://github.com/MrB141107/Python_Projects">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MrB141107&repo=Python_Projects&theme=dracula" align="left" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MrB141107&repo=Python_Projects&theme=dracula" align="left" width="40%"/>
 </a>
 
 
 <a href="https://github.com/MrB141107/Hacktoberfest_2022">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MrB141107&repo=Hacktoberfest_2022&theme=dracula" align="right" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MrB141107&repo=Hacktoberfest_2022&theme=dracula" align="right" width="40%"/>
 </a>
 <br>
 <br>
 <br>
-<be>
 <br>
 <br>
 <br>
-<br>
-
 
 
 # Contribution
