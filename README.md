@@ -47,15 +47,14 @@ Here are some ideas to get you started:
 <!--
 color=00f&title_color=00f&line=00f&point=000&area_color=002387&area=true&bg_color=87ceeb
 -->
+
 [<img src="https://github-readme-activity-graph.vercel.app/graph?username=MrB141107&theme=dracula" width="100%" border="none"/>](https://www.github.com/MrB141107)
 [<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrB141107&theme=dracula" width="100%"/>](https://github.com/MrB141107)
 
 # Stats
 
-<div>
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mrb141107&show_icons=true&theme=dracula" align="left" width="47%"/>
-  <img alt="GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=mrb141107&theme=dracula&stroke=00f" align="right" width="47%/>
-</div>
+<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mrb141107&show_icons=true&theme=dracula" align="left" width="47%"/>
+<img alt="GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=mrb141107&theme=dracula&stroke=00f" align="right" width="47%/>
     
 <!--
 <img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrb141107&layout=compact&hide_border=false&theme=blue_navy&show_icons=true" align="justify" width="500"/>
