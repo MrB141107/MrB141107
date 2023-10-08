@@ -53,8 +53,8 @@ color=00f&title_color=00f&line=00f&point=000&area_color=002387&area=true&bg_colo
 # Stats
 
 <div>
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mrb141107&show_icons=true&theme=dracula" align="left"/>
-  <img alt="GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=mrb141107&theme=dracula&stroke=00f" align="right"/>
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mrb141107&show_icons=true&theme=dracula" align="left" width="47%"/>
+  <img alt="GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=mrb141107&theme=dracula&stroke=00f" align="right" width="47%/>
 </div>
 <!--
 <img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrb141107&layout=compact&hide_border=false&theme=blue_navy&show_icons=true" align="justify" width="500"/>
