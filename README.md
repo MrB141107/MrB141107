@@ -9,13 +9,13 @@ Here are some ideas to get you started:
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 <br>
 
-- [x] 🔭 I’m currently working on Python
-- [x] 🌱 I’m currently learning Python
-- [X] 👯 I’m looking to collaborate on Python
-- [x] 🤔 I’m looking for help with Python
-- [X] 💬 Ask me about Python
-- [x] 📫 How to reach me: Discord
-- [x] 😄 Pronouns: He/him
+-  🔭 I’m currently working on Python
+-  🌱 I’m currently learning Python
+-  👯 I’m looking to collaborate on Python
+-  🤔 I’m looking for help with Python
+-  💬 Ask me about Python
+-  📫 How to reach me: Discord
+-  😄 Pronouns: He/him
 
 
 # Badges
